@@ -7,6 +7,7 @@
       "resolved": "https://registry.npmjs.org/double-ended-queue/-/double-ended-queue-2.1.0-0.tgz",
       "version": "2.1.0-0"
     },
+    "npm": "^5.10.0",
     "redis": "^3.0.2",
     "redis-commands": {
       "integrity": "sha512-cu8EF+MtkwI4DLIT0x9P8qNTLFhQD4jLfxLR0cCNkeGzs87FN6879JOJwNQR/1zD7aSYNbU0hgsV9zGY71Itvw==",
